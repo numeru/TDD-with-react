@@ -1,10 +1,10 @@
 {
-  "name": "chap3",
+  "name": "unit-basic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,6 @@
     "jest": "^27.3.1"
   },
   "dependencies": {
-    "@types/jest": "^27.0.3"
+    "@types/jest": "^27.0.2"
   }
 }
