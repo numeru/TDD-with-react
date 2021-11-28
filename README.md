@@ -12,4 +12,4 @@
 
 ## 6. [통합 테스트](https://github.com/numeru/TDD-with-react/tree/main/chap6)
 
-## 7. [E2E 테스트](https://github.com/numeru/TDD-with-react/tree/main/chap7doc
+## 7. [E2E 테스트](https://github.com/numeru/TDD-with-react/tree/main/chap7)
