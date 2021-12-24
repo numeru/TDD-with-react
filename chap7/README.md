@@ -9,7 +9,9 @@ yarn add cypress -D
 yarn add @testing-library/cypress -D
 
 // pakage.json
-"cypress" : "cypress open,
+"scripts": {
+  "cypress": "cypress open",
+},
 
 // cypress.json
 {
